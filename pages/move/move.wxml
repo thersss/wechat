@@ -1,0 +1,19 @@
+<Hdview></Hdview>
+
+<view class="dymain">
+      <navigator class="ditiem" wx:for="{{datalist}}">
+        <view class="pic">
+          <image src="{{item.picurl}}"></image>
+        </view>
+        <view class="txts">
+          <view class="title">
+        {{item.title}}
+          </view>
+          <view class="info">
+<text>作者：{{item.author}}</text>  <text space="ensp"> - </text> <text>时间：{{item.posttime}}</text> 
+          </view>
+        </view>
+      </navigator>
+
+    </view>
+<bottoms></bottoms>

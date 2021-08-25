@@ -1,0 +1,42 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/work/work",
+    "pages/move/move",
+    "pages/logs/logs",
+    "pages/show/show"
+  ],
+  "tabBar": { 
+  "selectedColor": "#FE9132",
+    "list": [{
+      "pagePath": "pages/index/index",
+      "text": "首页",
+      "iconPath": "images/home.png",
+      "selectedIconPath": "/images/home-h.png"
+     
+    },
+    {
+      "pagePath": "pages/work/work",
+      "text": "作品",
+      "iconPath": "images/list.png",
+      "selectedIconPath": "images/list-h.png"
+    } ,
+ 
+  {
+    "pagePath": "pages/move/move",
+    "text": "动态",
+    "iconPath": "images/user.png",
+    "selectedIconPath": "images/user-h.png"
+  }]
+  },
+  "window": {
+    "backgroundTextStyle": "light",
+
+    "navigationBarTitleText": "学习案例",
+    "navigationBarTextStyle": "white"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
+
+

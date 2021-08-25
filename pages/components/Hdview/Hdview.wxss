@@ -1,0 +1,47 @@
+/* 组件内的样式必须用类选择器，不能直接写标签，否则报错 */
+.header {
+  width: 750rpx;
+  height: 90rpx;
+
+}
+.contian {
+  padding: 0 26rpx;
+  box-sizing: border-box;
+}
+
+
+.hdcon {
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100%;
+}
+
+.hdcon .logo,
+.hdcon .haha {
+  height: 50rpx;
+}
+
+.hdcon .pic {
+  height: 100%;
+}
+
+.btn {
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+
+}
+
+.haha {
+  position: relative;
+  animation: dh 1.5s infinite linear;
+}
+
+.haha .picture {
+  height: 100%;
+
+}

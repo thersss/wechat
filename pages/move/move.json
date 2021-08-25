@@ -1,0 +1,5 @@
+{
+  "usingComponents": {  "Hdview":"/pages/components/Hdview/Hdview",
+    "bottoms":"/pages/components/bottoms/bottoms"
+  }
+}

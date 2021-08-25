@@ -1,0 +1,158 @@
+<Hdview></Hdview>
+
+
+
+
+
+<view class="hed">
+<navigator>首页</navigator>
+<navigator>平面设计</navigator>
+<navigator>室内设计</navigator>
+<navigator>UI设计</navigator>
+<navigator>电商设计</navigator>
+</view>
+
+<view class="works">
+  <view class="main">
+    <navigator class="boxs">
+      <image src="/images/xszp1.jpg" class="pic"></image>
+      <view class="ceng">
+        <view class="tit">UI设计作品</view>
+        <view class="line"></view>
+        <view class="eng">UI design works</view>
+      </view>
+    </navigator>
+    <navigator class="boxs">
+      <image src="/images/xszp2.jpg" class="pic"></image>
+      <view class="ceng">
+        <view class="tit">UI设计作品</view>
+        <view class="line"></view>
+        <view class="eng">UI design works</view>
+      </view>
+    </navigator>
+    <navigator class="boxs">
+      <image src="/images/xszp3.jpg" class="pic"></image>
+      <view class="ceng">
+        <view class="tit">UI设计作品</view>
+        <view class="line"></view>
+        <view class="eng">UI design works</view>
+      </view>
+    </navigator>
+    <navigator class="boxs">
+      <image src="/images/xszp4.jpg" class="pic"></image>
+      <view class="ceng">
+        <view class="tit">UI设计作品</view>
+        <view class="line"></view>
+        <view class="eng">UI design works</view>
+      </view>
+    </navigator>
+    <navigator class="boxs">
+      <image src="/images/xszp5.jpg" class="pic"></image>
+      <view class="ceng">
+        <view class="tit">UI设计作品</view>
+        <view class="line"></view>
+        <view class="eng">UI design works</view>
+      </view>
+    </navigator>
+    <navigator class="boxs">
+      <image src="/images/xszp6.jpg" class="pic"></image>
+      <view class="ceng">
+        <view class="tit">UI设计作品</view>
+        <view class="line"></view>
+        <view class="eng">UI design works</view>
+      </view>
+    </navigator>
+    <navigator class="boxs">
+      <image src="/images/xszp7.jpg" class="pic"></image>
+      <view class="ceng">
+        <view class="tit">Web前端设计</view>
+        <view class="line"></view>
+        <view class="eng">Web front end design</view>
+      </view>
+    </navigator>
+    <navigator class="boxs">
+      <image src="/images/xszp8.jpg" class="pic"></image>
+      <view class="ceng">
+        <view class="tit">UI设计作品</view>
+        <view class="line"></view>
+        <view class="eng">UI design works</view>
+      </view>
+    </navigator>
+
+    <navigator class="boxs">
+      <image src="/images/xszp8.jpg" class="pic"></image>
+      <view class="ceng">
+        <view class="tit">UI设计作品</view>
+        <view class="line"></view>
+        <view class="eng">UI design works</view>
+      </view>
+    </navigator>
+
+    <navigator class="boxs">
+      <image src="/images/xszp8.jpg" class="pic"></image>
+      <view class="ceng">
+        <view class="tit">UI设计作品</view>
+        <view class="line"></view>
+        <view class="eng">UI design works</view>
+      </view>
+    </navigator>
+
+    <navigator class="boxs">
+      <image src="/images/xszp8.jpg" class="pic"></image>
+      <view class="ceng">
+        <view class="tit">UI设计作品</view>
+        <view class="line"></view>
+        <view class="eng">UI design works</view>
+      </view>
+    </navigator>
+
+    <navigator class="boxs">
+      <image src="/images/xszp8.jpg" class="pic"></image>
+      <view class="ceng">
+        <view class="tit">UI设计作品</view>
+        <view class="line"></view>
+        <view class="eng">UI design works</view>
+      </view>
+    </navigator>
+
+    <navigator class="boxs">
+      <image src="/images/xszp8.jpg" class="pic"></image>
+      <view class="ceng">
+        <view class="tit">UI设计作品</view>
+        <view class="line"></view>
+        <view class="eng">UI design works</view>
+      </view>
+    </navigator>
+
+    <navigator class="boxs">
+      <image src="/images/xszp8.jpg" class="pic"></image>
+      <view class="ceng">
+        <view class="tit">UI设计作品</view>
+        <view class="line"></view>
+        <view class="eng">UI design works</view>
+      </view>
+    </navigator>
+
+    <navigator class="boxs">
+      <image src="/images/xszp8.jpg" class="pic"></image>
+      <view class="ceng">
+        <view class="tit">UI设计作品</view>
+        <view class="line"></view>
+        <view class="eng">UI design works</view>
+      </view>
+    </navigator>
+
+    <navigator class="boxs">
+      <image src="/images/xszp8.jpg" class="pic"></image>
+      <view class="ceng">
+        <view class="tit">UI设计作品</view>
+        <view class="line"></view>
+        <view class="eng">UI design works</view>
+      </view>
+    </navigator>
+
+  </view>
+
+</view>
+
+<bottoms></bottoms>

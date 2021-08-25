@@ -1,0 +1,136 @@
+<Hdview></Hdview>
+
+<view class="show">
+  <image src="/images/psbanner.jpg1 (1).jpg" mode="widthFix"></image>
+  <view class="banners">
+    <view class="tits">专业软件培训</view>
+    <view class="one">
+      <view class="item">
+        <image src="/images/photoshop.png1.png"> </image>
+        <view>photoshop</view>
+      </view>
+      <view class="item">
+        <image src="/images/photoshop.png1.png"> </image>
+        <view>photoshop</view>
+      </view>
+      <view class="item">
+        <image src="/images/photoshop.png1.png"> </image>
+        <view>photoshop</view>
+      </view>
+      <view class="item">
+        <image src="/images/photoshop.png1.png"> </image>
+        <view>photoshop</view>
+      </view>
+      <view class="item">
+        <image src="/images/photoshop.png1.png"> </image>
+        <view>photoshop</view>
+      </view>
+
+
+
+
+    </view>
+  </view>
+
+
+
+
+
+
+  <view class="banners">
+    <view class="tits">专业软件培训</view>
+    <view class="contant">
+      <image src="/images/psmajor02.jpg2.jpg" mode="widthFix"></image>
+      <view class="text">
+        <view>人像精修</view>
+        <view>商业广告片调色</view>
+        <view>商业广告视觉</view>
+        <view>卡通人物制作</view>
+        <view>3D特效制作</view>
+        <view>平面广告创意</view>
+        <view>合成特效制作</view>
+        <view>2.5D插花制作</view>
+        <view>2.5D插花制作</view>
+        <view>2D特效制作</view>
+      </view>
+    </view>
+  </view>
+  <view class="banners">
+    <view class="tits">专业软件培训</view>
+    <view class="contant">
+      <image src="/images/psmajor02.jpg2.jpg" mode="widthFix"></image>
+      <view class="text">
+        <view>人像精修</view>
+        <view>商业广告片调色</view>
+        <view>商业广告视觉</view>
+        <view>卡通人物制作</view>
+        <view>3D特效制作</view>
+        <view>平面广告创意</view>
+        <view>合成特效制作</view>
+        <view>2.5D插花制作</view>
+        <view>2.5D插花制作</view>
+        <view>2D特效制作</view>
+      </view>
+    </view>
+  </view>
+  <view class="banners">
+    <view class="tits">专业软件培训</view>
+    <view class="contant">
+      <image src="/images/psmajor02.jpg2.jpg" mode="widthFix"></image>
+      <view class="text">
+        <view>人像精修</view>
+        <view>商业广告片调色</view>
+        <view>商业广告视觉</view>
+        <view>卡通人物制作</view>
+        <view>3D特效制作</view>
+        <view>平面广告创意</view>
+        <view>合成特效制作</view>
+        <view>2.5D插花制作</view>
+        <view>2.5D插花制作</view>
+        <view>2D特效制作</view>
+      </view>
+    </view>
+  </view>
+  <view class="banners">
+    <view class="tits">专业软件培训</view>
+    <view class="contant">
+      <image src="/images/psmajor02.jpg2.jpg" mode="widthFix"></image>
+      <view class="text">
+        <view>人像精修</view>
+        <view>商业广告片调色</view>
+        <view>商业广告视觉</view>
+        <view>卡通人物制作</view>
+        <view>3D特效制作</view>
+        <view>平面广告创意</view>
+        <view>合成特效制作</view>
+        <view>2.5D插花制作</view>
+        <view>2.5D插花制作</view>
+        <view>2D特效制作</view>
+      </view>
+    </view>
+  </view>
+  <view class="banners">
+    <view class="tits">专业软件培训</view>
+    <view class="contant">
+      <image src="/images/psmajor02.jpg2.jpg" mode="widthFix"></image>
+      <view class="text">
+        <view>人像精修</view>
+        <view>商业广告片调色</view>
+        <view>商业广告视觉</view>
+        <view>卡通人物制作</view>
+        <view>3D特效制作</view>
+        <view>平面广告创意</view>
+        <view>合成特效制作</view>
+        <view>2.5D插花制作</view>
+        <view>2.5D插花制作</view>
+        <view>2D特效制作</view>
+      </view>
+    </view>
+  </view>
+</view>
+
+
+<bottoms></bottoms>
+
+
+

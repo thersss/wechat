@@ -1,0 +1,4 @@
+/* pages/move/move.wxss */
+.dynamic{
+  padding: 40rpx 0 40rpx;
+}

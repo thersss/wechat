@@ -1,0 +1,17 @@
+.hed navigator{
+  width: 150rpx;
+  height: 60rpx;
+ border-bottom: 1px solid #eee;
+
+ font-size: 30rpx;
+ line-height: 60rpx;
+ text-align: center;
+}
+
+.hed{
+  display: flex;
+}
+.works {
+  padding: 40rpx 20rpx 20rpx;
+}
+
